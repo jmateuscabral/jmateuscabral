@@ -1,6 +1,6 @@
 ## Olá, eu sou o Mateus 😃
 
-### Atualmente estou trabalhando com:
+<!-- ### Atualmente estou trabalhando com: -->
 
 #### <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> Python 
 #### <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg"/> Django
